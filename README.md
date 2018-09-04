@@ -6,8 +6,4 @@ This is a hub for clone
 * kd
 * green
 
-<<<<<<< HEAD
-* cousins
-=======
-* cook
->>>>>>> feature1
+12222222222222222222222222222222
